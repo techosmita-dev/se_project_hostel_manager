@@ -37,11 +37,11 @@ module.exports = {
 
 ### Screenshots
 
-![Home Page](https://github.com/starkblaze01/Hostel-Management/blob/Docs/home.png)
+![Home Page](https://github.com/techosmita-dev/Hostel-Management/blob/Docs/home.png)
 
-![Dashboard](https://github.com/starkblaze01/Hostel-Management/blob/Docs/dashboard.png)
+![Dashboard](https://github.com/techosmita-dev/Hostel-Management/blob/Docs/dashboard.png)
 
-![Room Cleaning](https://github.com/starkblaze01/Hostel-Management/blob/Docs/room%20cleaning.png)
+![Room Cleaning](https://github.com/techosmita-dev/Hostel-Management/blob/Docs/room%20cleaning.png)
 
 ## Team Members
 - Riya Saran
