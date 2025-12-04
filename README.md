@@ -33,7 +33,7 @@ module.exports = {
 ### For testing
 - `npm run test`
 
-**Find API Documentation [here](https://github.com/starkblaze01/Hostel-Management/blob/master/API_Endpoints.md).**
+**Find API Documentation [here](https://github.com/techosmita-dev/se_project_hostel_manager/blob/main/API_Endpoints.md).**
 
 ### Screenshots
 
