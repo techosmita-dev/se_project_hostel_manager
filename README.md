@@ -44,10 +44,10 @@ module.exports = {
 ![Room Cleaning](https://github.com/starkblaze01/Hostel-Management/blob/Docs/room%20cleaning.png)
 
 ## Team Members
-- #Riya Saran
-- #Anant Goyal
-- #suraj Meena
-- #Mrunal Shah
+- Riya Saran
+- Anant Goyal
+- suraj Meena
+- Mrunal Shah
 
 Semester Project
 Submitted under:->
