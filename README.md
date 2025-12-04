@@ -49,6 +49,6 @@ module.exports = {
 - suraj Meena
 - Mrunal Shah
 
-## Semester Project
-# Submitted under:->
-## Dr. Vikas Singh
+# Semester Project
+## Submitted under:->
+### Dr. Vikas Singh
