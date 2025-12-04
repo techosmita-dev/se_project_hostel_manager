@@ -1,0 +1,118 @@
+/* Add to your css file */
+
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    background-color: #fff !important;
+    border: 1px solid #4e73df !important;
+}
+
+.table tbody tr {
+    transition: background-color 0.2s;
+}
+
+.btn-primary {
+    background: linear-gradient(45deg, #4e73df, #224abe);
+    border: none;
+}
+
+.badge-light {
+    background-color: #f8f9fa;
+    color: #333;
+    font-weight: 500;
+    padding: 6px 10px;
+}
+
+img {
+  width: 100%;
+}
+
+.mid {
+  min-height: 100vh;
+}
+
+.landing {
+  position: relative;
+  background: url("./img/hostel.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin-top: -24px;
+  margin-bottom: -50px;
+}
+
+.landing-inner {
+  padding-top: 80px;
+}
+
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.card-form {
+  opacity: 0.9;
+}
+
+.latest-profiles-img {
+  width: 40px;
+  height: 40px;
+}
+
+.form-control::placeholder {
+  color: #bbb !important;
+}
+
+.dashboard-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.dashboard-card {
+  width: 18rem;
+  min-height: 22rem;
+  border: none;
+  border-radius: 18px;
+  overflow: hidden;
+  background: linear-gradient(165deg, #243949 0%, #517fa4 100%);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  color: #fff;
+}
+
+.dashboard-card:nth-child(2) {
+  background: linear-gradient(165deg, #42275a 0%, #734b6d 100%);
+}
+
+.dashboard-card:nth-child(3) {
+  background: linear-gradient(165deg, #093028 0%, #237a57 100%);
+}
+
+.dashboard-card img {
+  height: 160px;
+  object-fit: cover;
+}
+
+.dashboard-card .card-body {
+  padding: 1.5rem;
+}
+
+.dashboard-card a {
+  color: #ffe082;
+  font-weight: 600;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 30px rgba(0, 0, 0, 0.25);
+}
