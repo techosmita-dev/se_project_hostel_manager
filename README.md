@@ -49,6 +49,6 @@ module.exports = {
 - suraj Meena
 - Mrunal Shah
 
-# Semester Project
+# Semester Project (MNIT Jaipur)
 ## Submitted under:->
 ### Dr. Vikas Singh
