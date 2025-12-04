@@ -20,7 +20,7 @@ Manage Your Hostel
 
 ### Setup up dev_keys for database
 - Either run local MongoServer or,
-- Setup Mongo Server at online platform like mlab and Create a keys_dev.js file in [config](https://github.com/starkblaze01/Hostel-Management/tree/master/config) folder and set up:-
+- Setup Mongo Server at online platform like mlab and Create a keys_dev.js file in [config](https://github.com/techosmita-dev/se_project_hostel_manager/tree/main/config) folder and set up:-
 ``` 
 module.exports = {
   mongoURI: YOUR_LOCAL_MONGO_SERVER_URI,
