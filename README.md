@@ -41,7 +41,7 @@ module.exports = {
 
 ![Dashboard](https://github.com/techosmita-dev/se_project_hostel_manager/blob/main/dashboard.png)
 
-![Room Cleaning](https://github.com/techosmita-dev/se_project_hostel_manager/blob/main/room%20cleaning.png)
+![Room Cleaning](https://github.com/techosmita-dev/se_project_hostel_manager/blob/main/room_cleaning.png)
 
 ## Team Members
 - Riya Saran
