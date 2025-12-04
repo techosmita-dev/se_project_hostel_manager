@@ -44,14 +44,11 @@ module.exports = {
 ![Room Cleaning](https://github.com/starkblaze01/Hostel-Management/blob/Docs/room%20cleaning.png)
 
 ## Team Members
-- [Riya Saran(https://github.com/amany9000)
-- [Anant Goyal](https://github.com/avi-spc)
-- [suraj Meena](https://github.com/anshumanv)
-- [Mrunal Shah](https://github.com/starkblaze01/) 😎
+- #Riya Saran
+- #Anant Goyal
+- #suraj Meena
+- #Mrunal Shah
 
-
-Liked the project? Hit the star button to show support!
-
-## Found an Issue or any suggestions
-Make an issue [here](https://github.com/starkblaze01/Hostel-Management/issues/new).
-# se_project_hostel_manager
+Semester Project
+Submitted under:->
+Dr. Vikas Singh
